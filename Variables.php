@@ -25,7 +25,7 @@
     //with break tag for spacing
     echo "${name} <br> ${num}";
     $fontColor = "color:red";
-    $fontsize = "font-size:50px";
+    $fontsize = "font-size:50px"; 
     echo "<h1 style=${fontColor};${fontsize};>Yo Coder</h1>"
     ?>
 </body>

@@ -7,14 +7,10 @@
     <title>Document</title>
 </head>
 <body>
-    <?php 
-        $title = "Its Just A Title Dude";
-
-    ?>    
-
+    <?php
+   
+    echo "<h1 style=color:red;font-size:70px;> This Title is added with PHP and Styled.</h1>"
+    
+    ?>
 </body>
 </html>
-
-
-
-
